@@ -1,3 +1,7 @@
+# Fork
+
+This fork is just for my personal use, so I can locally edit the examples (kindly provided by [electro-smith](https://github.com/electro-smith)) and keep them in sync.
+
 <h1 align="center">Daisy Examples</h1>
 
 <p align="center">
